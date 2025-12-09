@@ -478,7 +478,7 @@ php artisan cache:clear
 
 You can attach your preferred license here, for example:
 
-Proprietary – © {YEAR} Software Developer: Gregorio Godin Jr
+Proprietary – © 2025 Software Developer: Gregorio Godin Jr
 All rights reserved.
 
 
