@@ -482,11 +482,5 @@ Proprietary – © 2025 Software Developer: Gregorio Godin Jr
 All rights reserved.
 
 
-Or apply an open-source license (MIT, Apache-2.0, etc.) if you decide to share it publicly.
 
-
-If you want, I can next help you:
-
-- Turn this into a **GitHub repo description** + tags for the project page, and  
-- Write **CV / portfolio bullets** that reference “StockOnHand2Cash – AI-Powered Commerce Back-Office for Shopify (Laravel + React + AI)”.
 
