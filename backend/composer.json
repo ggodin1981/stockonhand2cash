@@ -1,0 +1,27 @@
+{
+  "name": "stockonhand2cash/backend",
+  "description": "StockOnHand2Cash \u2013 AI-Powered Commerce Back-Office for Shopify",
+  "type": "project",
+  "require": {
+    "php": "^8.1",
+    "laravel/framework": "^11.0",
+    "laravel/sanctum": "^4.0",
+    "laravel/tinker": "^2.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Gregorio Godin Jr",
+      "role": "Software Developer"
+    }
+  ],
+  "scripts": {
+    "post-autoload-dump": [
+      "@php artisan package:discover --ansi"
+    ]
+  }
+}
